@@ -1,0 +1,5 @@
+telethon
+deep-translator
+flask
+pytesseract
+pillow
